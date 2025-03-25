@@ -1,0 +1,326 @@
+{
+    "skd": [
+        [
+            "Lucas Arcanjo",
+            12.4
+        ],
+        [
+            "Lecce",
+            11.3
+        ],
+        [
+            "Ant\u00f4nio",
+            10.9
+        ]
+    ],
+    "bpdd": [
+        [
+            "L\u00e9o",
+            13.1
+        ],
+        [
+            "Frans\u00e9rgio",
+            12.2
+        ],
+        [
+            "M\u00e1rcio Silva",
+            12.2
+        ],
+        [
+            "Henrique",
+            11.7
+        ],
+        [
+            "Paulo Vitor",
+            11.7
+        ]
+    ],
+    "wba": [
+        [
+            "L\u00e9o",
+            13.2
+        ],
+        [
+            "Natanael",
+            12.9
+        ],
+        [
+            "Kevin",
+            12.8
+        ],
+        [
+            "Andrey",
+            12.6
+        ],
+        [
+            "Henrique",
+            12.5
+        ],
+        [
+            "Rafinha",
+            12.4
+        ],
+        [
+            "Bruno Gomes",
+            12.4
+        ]
+    ],
+    "sva": [
+        [
+            "L\u00e9o",
+            13.0
+        ],
+        [
+            "Andrey",
+            12.7
+        ],
+        [
+            "Bruno Gomes",
+            12.5
+        ],
+        [
+            "Matheus Sales",
+            12.5
+        ],
+        [
+            "Rafinha",
+            12.3
+        ],
+        [
+            "Frans\u00e9rgio",
+            12.0
+        ],
+        [
+            "Paulo Vitor",
+            11.4
+        ]
+    ],
+    "bwms": [
+        [
+            "Thiaguinho",
+            13.7
+        ],
+        [
+            "De Lucca",
+            13.5
+        ],
+        [
+            "Benjam\u00edn Kuscevic",
+            13.2
+        ],
+        [
+            "L\u00e9o",
+            13.2
+        ],
+        [
+            "Andrey",
+            13.0
+        ],
+        [
+            "Henrique",
+            13.0
+        ],
+        [
+            "Natanael",
+            13.0
+        ],
+        [
+            "Matheus Sales",
+            12.9
+        ],
+        [
+            "Bruno Gomes",
+            12.8
+        ],
+        [
+            "Kevin",
+            12.8
+        ],
+        [
+            "Reynaldo",
+            12.7
+        ],
+        [
+            "Philipe Sampaio",
+            12.7
+        ],
+        [
+            "Rafinha",
+            12.2
+        ],
+        [
+            "Paulo Vitor",
+            11.5
+        ],
+        [
+            "Henrique Melo",
+            11.0
+        ]
+    ],
+    "ifs": [
+        [
+            "Marcelino Moreno",
+            13.6
+        ],
+        [
+            "Boschilia",
+            13.4
+        ],
+        [
+            "Lu\u00eds Guilherme",
+            13.3
+        ],
+        [
+            "Cecilio Dom\u00ednguez",
+            12.8
+        ],
+        [
+            "Andrey",
+            12.7
+        ],
+        [
+            "Warley",
+            12.7
+        ],
+        [
+            "Fabr\u00edcio Daniel",
+            12.7
+        ],
+        [
+            "Rafinha",
+            12.6
+        ],
+        [
+            "Bruno Gomes",
+            12.4
+        ],
+        [
+            "Robson Fernandes",
+            12.1
+        ],
+        [
+            "Kaio C\u00e9sar",
+            12.1
+        ],
+        [
+            "Ant\u00f4nio Jos\u00e9",
+            11.8
+        ],
+        [
+            "Kelwin",
+            11.3
+        ],
+        [
+            "Benicio Baker-Boaitey",
+            11.0
+        ],
+        [
+            "Alisson Jesus",
+            11.0
+        ]
+    ],
+    "ssa": [
+        [
+            "Marcelino Moreno",
+            13.4
+        ],
+        [
+            "Boschilia",
+            13.1
+        ],
+        [
+            "Fabr\u00edcio Daniel",
+            12.7
+        ],
+        [
+            "Cecilio Dom\u00ednguez",
+            12.6
+        ],
+        [
+            "Rafinha",
+            12.5
+        ],
+        [
+            "Warley",
+            12.4
+        ],
+        [
+            "Bruno Gomes",
+            12.4
+        ],
+        [
+            "Pol Lozano",
+            12.3
+        ],
+        [
+            "Robson Fernandes",
+            12.2
+        ],
+        [
+            "Frans\u00e9rgio",
+            12.0
+        ],
+        [
+            "Kaio C\u00e9sar",
+            11.8
+        ],
+        [
+            "Ant\u00f4nio Jos\u00e9",
+            11.5
+        ],
+        [
+            "Benicio Baker-Boaitey",
+            11.1
+        ]
+    ],
+    "afa": [
+        [
+            "Boschilia",
+            13.2
+        ],
+        [
+            "Cecilio Dom\u00ednguez",
+            12.8
+        ],
+        [
+            "Fabr\u00edcio Daniel",
+            12.7
+        ],
+        [
+            "Warley",
+            12.7
+        ],
+        [
+            "Rafinha",
+            12.7
+        ],
+        [
+            "Robson Fernandes",
+            12.4
+        ],
+        [
+            "Kaio C\u00e9sar",
+            12.1
+        ],
+        [
+            "Igor Amaral",
+            11.8
+        ],
+        [
+            "Ant\u00f4nio Jos\u00e9",
+            11.7
+        ],
+        [
+            "Kelwin",
+            11.5
+        ],
+        [
+            "Benicio Baker-Boaitey",
+            11.3
+        ],
+        [
+            "Alisson Jesus",
+            10.9
+        ]
+    ]
+}

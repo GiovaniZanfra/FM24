@@ -1,0 +1,402 @@
+{
+    "sks": [
+        [
+            "C\u00e1ssio",
+            12.5
+        ],
+        [
+            "Bizzon",
+            10.5
+        ],
+        [
+            "Matheus",
+            10.1
+        ],
+        [
+            "Lysias Pinheiro",
+            9.5
+        ]
+    ],
+    "wcbd": [
+        [
+            "Raul Gustavo",
+            13.4
+        ],
+        [
+            "Gabriel Moscardo",
+            13.2
+        ],
+        [
+            "Xavier",
+            12.6
+        ],
+        [
+            "Jo\u00e3o Pedro Tchoca",
+            11.4
+        ],
+        [
+            "William Magiezi",
+            11.2
+        ],
+        [
+            "Jo\u00e3o Victor",
+            11.1
+        ],
+        [
+            "Ricardo",
+            9.8
+        ]
+    ],
+    "ls": [
+        [
+            "Gabriel Moscardo",
+            13.1
+        ],
+        [
+            "Fausto Vera",
+            12.7
+        ],
+        [
+            "Jo\u00e3o Victor",
+            11.4
+        ],
+        [
+            "Jo\u00e3o Pedro Tchoca",
+            11.2
+        ],
+        [
+            "William Magiezi",
+            11.1
+        ]
+    ],
+    "hbd": [
+        [
+            "Gabriel Moscardo",
+            13.2
+        ],
+        [
+            "F\u00e1gner",
+            12.8
+        ],
+        [
+            "Fausto Vera",
+            12.8
+        ],
+        [
+            "Jo\u00e3o Afonso",
+            12.8
+        ],
+        [
+            "Caetano",
+            12.8
+        ],
+        [
+            "Xavier",
+            12.8
+        ],
+        [
+            "Luiz Mandaca",
+            12.2
+        ],
+        [
+            "Jo\u00e3o Pedro Tchoca",
+            11.2
+        ],
+        [
+            "William Magiezi",
+            11.1
+        ]
+    ],
+    "mezs": [
+        [
+            "Juli\u00e1n Palacios",
+            13.3
+        ],
+        [
+            "Roni",
+            13.1
+        ],
+        [
+            "Matheus Bidu",
+            12.9
+        ],
+        [
+            "F\u00e1gner",
+            12.9
+        ],
+        [
+            "Xavier",
+            12.6
+        ],
+        [
+            "Ruan Oliveira",
+            12.4
+        ],
+        [
+            "Matheus Ara\u00fajo",
+            12.2
+        ],
+        [
+            "Luiz Mandaca",
+            12.2
+        ],
+        [
+            "V\u00edtor Meer",
+            12.1
+        ],
+        [
+            "Giovane",
+            11.8
+        ],
+        [
+            "Kervin Andrade",
+            11.5
+        ],
+        [
+            "Adryan",
+            11.4
+        ],
+        [
+            "Kau\u00e3",
+            11.4
+        ],
+        [
+            "Jo\u00e3o Victor",
+            11.1
+        ],
+        [
+            "Vitor",
+            10.9
+        ],
+        [
+            "Dimas",
+            10.7
+        ]
+    ],
+    "wa": [
+        [
+            "Michael",
+            13.9
+        ],
+        [
+            "Alanzinho",
+            13.7
+        ],
+        [
+            "Yuri Alberto",
+            13.4
+        ],
+        [
+            "Juli\u00e1n Palacios",
+            13.4
+        ],
+        [
+            "Gustavo Silva",
+            13.4
+        ],
+        [
+            "Matheus Bidu",
+            13.0
+        ],
+        [
+            "F\u00e1gner",
+            12.8
+        ],
+        [
+            "Wesley",
+            12.6
+        ],
+        [
+            "Ruan Oliveira",
+            12.4
+        ],
+        [
+            "Erick Marcus",
+            12.4
+        ],
+        [
+            "Matheus Ara\u00fajo",
+            12.3
+        ],
+        [
+            "Kayky",
+            12.3
+        ],
+        [
+            "V\u00edtor Meer",
+            12.2
+        ],
+        [
+            "Daniel Marcos",
+            12.0
+        ],
+        [
+            "Giovane",
+            12.0
+        ],
+        [
+            "Luiz Mandaca",
+            11.9
+        ],
+        [
+            "Kervin Andrade",
+            11.9
+        ],
+        [
+            "Higor",
+            11.8
+        ],
+        [
+            "Kau\u00e3",
+            11.6
+        ],
+        [
+            "Guilherme Henrique",
+            11.4
+        ],
+        [
+            "Adryan",
+            11.2
+        ],
+        [
+            "Dimas",
+            10.7
+        ],
+        [
+            "Didi",
+            10.3
+        ]
+    ],
+    "ama": [
+        [
+            "Mat\u00edas Rojas",
+            13.5
+        ],
+        [
+            "Alanzinho",
+            13.5
+        ],
+        [
+            "F\u00e1gner",
+            12.9
+        ],
+        [
+            "Ruan Oliveira",
+            12.5
+        ],
+        [
+            "Matheus Ara\u00fajo",
+            12.2
+        ],
+        [
+            "V\u00edtor Meer",
+            12.1
+        ],
+        [
+            "Kayky",
+            12.0
+        ],
+        [
+            "Erick Marcus",
+            12.0
+        ],
+        [
+            "Kervin Andrade",
+            11.8
+        ],
+        [
+            "Giovane",
+            11.7
+        ],
+        [
+            "Adryan",
+            11.4
+        ],
+        [
+            "Kau\u00e3",
+            11.4
+        ],
+        [
+            "Guilherme Henrique",
+            11.1
+        ],
+        [
+            "Dimas",
+            10.6
+        ]
+    ],
+    "f9s": [
+        [
+            "Giovani",
+            15.6
+        ],
+        [
+            "Malcom",
+            14.8
+        ],
+        [
+            "Alanzinho",
+            13.9
+        ],
+        [
+            "Mat\u00edas Rojas",
+            13.8
+        ],
+        [
+            "Ruan Oliveira",
+            12.7
+        ],
+        [
+            "Matheus Ara\u00fajo",
+            12.5
+        ],
+        [
+            "Kayky",
+            12.3
+        ],
+        [
+            "Wesley",
+            12.2
+        ],
+        [
+            "Erick Marcus",
+            12.1
+        ],
+        [
+            "Renato Augusto",
+            11.8
+        ],
+        [
+            "V\u00edtor Meer",
+            11.8
+        ],
+        [
+            "Giovane",
+            11.8
+        ],
+        [
+            "Adryan",
+            11.7
+        ],
+        [
+            "Kervin Andrade",
+            11.5
+        ],
+        [
+            "Kau\u00e3",
+            11.5
+        ],
+        [
+            "Guilherme Henrique",
+            11.5
+        ],
+        [
+            "Eduardo Tanque",
+            11.2
+        ],
+        [
+            "Gabriel Yuske",
+            11.1
+        ]
+    ]
+}
